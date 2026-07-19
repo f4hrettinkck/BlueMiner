@@ -7,7 +7,7 @@ Bu projeyi gerçekleştirirken, sadece okulda/derste öğrendiğim standart fonk
 * **Oyun Motoru:** Unity
 * **Programlama Dili:** C#
 * **Oyun Görselleri:** Photoshop
-* **Ses Tasarımı / Efektler: **AudaCity(kendi ses kayıtlarım)
+* **Ses Tasarımı / Efektler:** AudaCity(kendi ses kayıtlarım)
 * **Geliştirilen Alanlar:** Oyun mekanikleri, problem çözme ve algoritma mantığı, UI (Arayüz) yönetimi.
 
 ## 📸 Ekran Görüntüleri
